@@ -1,0 +1,18 @@
+/*
+ * Donate Buttons
+ */
+ 
+.paypal {
+	vertical-align: middle;
+}
+
+/*
+ * Admin
+ */
+ 
+ /* Widgets */
+ 
+.widget .widget-content .hint {
+	font-size: 0.9em;
+	font-style: italic;
+}

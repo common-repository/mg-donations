@@ -1,0 +1,1 @@
+<input class="paypal paypal-1" type="image" border="0" src="https://www.paypalobjects.com/webstatic/en_US/btn/btn_donate_74x21.png" alt="PayPal - The safer, easier way to pay online">
